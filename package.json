@@ -4,7 +4,7 @@
   "description": "Creating tests with Mocha App",
   "main": "pokemon.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha test/unit"
   },
   "repository": {
     "type": "git",

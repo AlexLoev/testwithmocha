@@ -4,7 +4,7 @@ class Pokemon {
       this.level = level;
     }
     show() {
-      return `Hi! My name is ${this.name}, my level is ${this.level}`;
+      console.log(`Hi! My name is ${this.name}, my level is ${this.level}`);
     }
     valueOf(){
       return this.level;
